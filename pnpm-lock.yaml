@@ -14,7 +14,7 @@ importers:
         specifier: latest
         version: 1.8.8
 
-  apps/docs:
+  apps/results-summary:
     dependencies:
       next:
         specifier: ^13.1.1
